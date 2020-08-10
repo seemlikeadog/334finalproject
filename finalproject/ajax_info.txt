@@ -1,0 +1,6 @@
+<h1>Instruction</h1>
+<p>This is a Kindergarten official website</p>
+<p>If you want to login administrator user level, Enter 'admin' as username and '123' as password</p>
+<p>Another created username is :"wang1my" and password is :"yijiaren" , you can login two different user level by this two accounts</p>
+<p>Ajax, JSON and search is included on the link under the homepaghe picture</p>
+<p>This website is still developed but all of features on rubrics are done</p>

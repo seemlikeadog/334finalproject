@@ -1,0 +1,32 @@
+body{
+    background: rgb(218, 247, 166);
+}
+
+.buttonTransfer{
+    float: bottom;
+}
+
+.mainpic{
+    border:1px solid rgba(9, 99, 167, 0.75);
+    margin-bottom: 20px;
+    margin-top: 100px;
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+a{
+    color: #1b1e21;
+}
+a:hover{
+    color: #1b1e21;
+}
+
+#end{
+
+    width: 100%;
+}
+
+

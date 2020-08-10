@@ -1,0 +1,61 @@
+body{
+    background: rgba(239, 215, 90, 0.8);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+  .login{
+      padding:20px 50px;
+     background: #00000060;
+     width: 30%;
+     height: auto ;
+    margin: 0 auto ;
+    margin-top: 15%;
+   text-align: center;
+  }
+  .login h1{
+    color: #FFF;
+
+  }
+  .login .form .item{
+    margin-top: 15px;
+
+  }
+  .login .form .item input{
+    width: 200px;
+    font-size: 15px;
+      padding: 5px 10px;
+  background: #ffffff00;
+  border: 0px;
+  border-bottom: 2px  solid #fff;
+  color: #FFF;
+  }
+  .login button{
+       margin-top: 50px;
+       width: 200px;
+       height: 30px;
+       border: 0px;
+       background: rgba(239, 215, 90, 0.8);
+       border-radius: 15px;
+       color: #000;
+
+  }
+
+  .submit{
+      margin-top: 50px;
+      width: 200px;
+      height: 30px;
+      border: 0px;
+      background: rgba(239, 215, 90, 0.8);
+      border-radius: 15px;
+      color: #000;
+  }
+
+  #submit{
+      margin-top: 50px;
+      width: 200px;
+      height: 30px;
+      border: 0px;
+      background: rgba(239, 215, 90, 0.8);
+      border-radius: 15px;
+      color: #000;
+  }

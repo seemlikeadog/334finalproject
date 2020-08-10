@@ -1,0 +1,37 @@
+#topic{
+    margin-top: 100px;
+    text-align: center;
+}
+
+#end{
+    position: absolute;
+    bottom: 0;
+    width: 100%
+}
+
+#fix-form{
+    margin-left: 500px;
+}
+
+@media screen and(max-width: 768px){
+
+    .topic{
+        margin-top: 100px;
+        margin-left: 0;
+        text-align: center;
+        width: 100%;
+    }
+
+}
+
+#head{
+    padding-left: 500px;
+}
+
+#wenzhang{
+    width: 60%;
+}
+
+#header{
+    margin: 0 auto;
+}

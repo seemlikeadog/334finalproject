@@ -1,0 +1,17 @@
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+.hhh:hover{
+    background-color: #61FA9F;
+}
+
+#news{
+    margin-left: 300px;
+    text-align: center;
+    width: 70%;
+}
